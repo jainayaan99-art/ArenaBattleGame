@@ -1,8 +1,6 @@
 ﻿import React, { useEffect, useRef, useState } from 'react';
 import * as THREE from 'three';
 import { PointerLockControls } from 'three/examples/jsm/controls/PointerLockControls';
-import { Button } from '@/components/ui/button';
-import { Input } from '@/components/ui/input';
 import { Settings } from 'lucide-react';
 import MapBuilder from '../components/mapbuilder';
 
