@@ -4,7 +4,7 @@ import { PointerLockControls } from 'three/examples/jsm/controls/PointerLockCont
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Settings } from 'lucide-react';
-import MapBuilder from '../components/mapmuilder';
+import MapBuilder from '../components/mapbuilder';
 
 export default function ArenaBattle() {
  const containerRef = useRef(null);
